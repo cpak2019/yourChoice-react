@@ -1,0 +1,35 @@
+@@import url('https://fonts.googleapis.com/css?family=oswald|sans-serif');
+body {
+  background-color: #1e1e1e;
+}
+
+.ui.topmenu.menu {
+  background-color: black;
+  border: 0px;
+  border-radius: 0;
+  margin: 0;
+  box-shadow: none;
+}
+
+.ui.topmenu.menu .item {
+  font-family: oswald;
+  /*line-height: 19px;*/
+  color: #707070;
+}
+
+.greyBackgroundColor{
+  background-color: #1e1e1e;
+}
+
+
+p3{
+  margin-top: 15px;
+  font-family: oswald;
+  color: #707070;
+  font-size: 20px;
+}
+
+p2{
+  font-family: oswald;
+  color: #707070;
+}
